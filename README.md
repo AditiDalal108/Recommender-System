@@ -54,10 +54,6 @@ This project uses the **MovieLens 1M Dataset**
   Item similarity (content-based)
   Embedding similarity (collaborative)
 
-
-## 📸 App screenshot
-<img width="1553" height="846" alt="image" src="https://github.com/user-attachments/assets/ac1748f5-afd4-4421-9fc3-18d7fb75e152" />
-
 ## 🔮 Future Improvements
 
 If I were to extend this project:
@@ -67,4 +63,11 @@ If I were to extend this project:
 - Deploy with a database backend
 - Improve ranking with weighted scoring and bringing more factors into play
 - Incorporate deep learning models
+
+ ## 📸 App screenshot
+<img width="1553" height="846" alt="image" src="https://github.com/user-attachments/assets/ac1748f5-afd4-4421-9fc3-18d7fb75e152" />
+- 
+-
+<img width="1557" height="758" alt="image" src="https://github.com/user-attachments/assets/8886855c-2ed4-47be-977a-40c26c951a22" />
+
 
