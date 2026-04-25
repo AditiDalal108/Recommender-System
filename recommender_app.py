@@ -71,7 +71,7 @@ print(similar_movies("Toy Story"))
 
 #Funtion to get 'recommendations based on user preferences' using Matrix Factorization model
 
-def recommend_movies(movie, n=10):
+def recommend_movies(movie, n=7):
     idx = movies[movies['title'] == movie]['movie_id'].values[0]
     movie_embedding = mf_model.B_[idx].reshape(1, -1)
 
