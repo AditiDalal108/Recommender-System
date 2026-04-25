@@ -118,7 +118,7 @@ if similar_btn:
         st.write(f"{sim_movie}")
 
 if recommend_btn:
-    st.subheader(f"Users who liked '{movie}' also liked:")
+    st.subheader(f"Viewers who liked '{movie}' also liked:")
     recommended = recommend_movies(movie)
     for idx, rec_movie in enumerate(recommended, 1):
         st.write(f"{rec_movie}")
